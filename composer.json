@@ -1,5 +1,5 @@
 {
-    "name": "ezequiel/framework",
+    "name": "ezequiel/sms",
     "description": "library for sms",
     "type": "library",
     "require": {
