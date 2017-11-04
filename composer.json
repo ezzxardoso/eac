@@ -1,0 +1,19 @@
+{
+    "name": "ezequiel/framework",
+    "description": "library for sms",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "php": "^7.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Ezequiel cardoso",
+            "email": "ezzcardoso@icloud.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
