@@ -1,5 +1,5 @@
 <?php
-namespace smsgateway;
+namespace smsGateway;
 
     class SmsGateway {
 
