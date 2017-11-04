@@ -16,9 +16,9 @@
         }
     ],
     "minimum-stability": "stable"
-    {
+    
     "autoload": {
         "psr-4": {"smsGateway\\": "src/"}
-    }
+    
 }
 }
